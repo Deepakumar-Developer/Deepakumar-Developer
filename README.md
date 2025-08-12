@@ -77,5 +77,3 @@ Automated bakery bun portioning with photoelectric sensors & Arduino Nano.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deepakumar-developer/)
 
 ---
-
-> 💡 *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
