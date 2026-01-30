@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Deepakumar M
 
-🚀 **Mobile App & Multi-Platform Developer | Embedded Systems Enthusiast**
+🚀 **Network Engineer | Wireshark, Python, Linux | Bridging the Gap between Hardware and Virtualization**
 
-I'm passionate about crafting **user-centric solutions** across mobile, cloud, and hardware.  
-I specialize in building **feature-rich mobile apps** using Flutter and secure backend systems,  
-while also exploring **IoT and embedded technologies**.
+Currently, I am revolutionizing internal AP testing processes by building an automated pipeline. By transforming test requirements into executable Python scripts, I have optimized configuration workflows and enabled automated validation using pcap analysis.
+
+My background is a unique blend of core electronics and modern application development. Whether I’m designing a cross-platform mobile app in Flutter, building backends with Flask, or configuring complex LAN environments, I focus on one thing: making systems smarter and more efficient.
 
 ---
 
@@ -26,9 +26,9 @@ while also exploring **IoT and embedded technologies**.
 ### 🖥 Programming Languages  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 📱 Mobile Development  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
@@ -39,27 +39,11 @@ while also exploring **IoT and embedded technologies**.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### 🛠 Tools & Technologies  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 RiceKing – Agricultural Services Booking Platform
-Flutter-based app connecting farmers with service providers.  
-**Features:** Multi-role dashboards, Real-time booking, AI integration, Firebase backend.  
-
-### 🏫 Function Hall Booking System – Paavai Engineering College
-Streamlined booking process with role-based access & notifications.
-
-### 🗺 Find Path
-Network visualization & routing simulation with Dijkstra’s algorithm.
-
-### 🍞 Bun Cutting Machine Using Arduino
-Automated bakery bun portioning with photoelectric sensors & Arduino Nano.
 
 ---
 
